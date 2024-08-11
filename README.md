@@ -42,6 +42,24 @@ Follow these steps to get the project up and running locally.
 ## 🤝 Contributing
     Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
 
+## 📲 ScreenShots
+![login](https://github.com/user-attachments/assets/09277d35-2d39-4e7c-bb25-5993fe7b04b6)
+
+![login-error](https://github.com/user-attachments/assets/32391100-917c-4fa5-b8a8-ffb28a77ee71)
+
+![sign-up](https://github.com/user-attachments/assets/4be625ae-cecd-4c3a-ac5b-851cd0cb44d8)
+
+![Dashboard-1](https://github.com/user-attachments/assets/9ebbf723-a6e7-4bca-9d48-843bce04896f)
+
+![Dashboard-2](https://github.com/user-attachments/assets/69214b6c-f3ab-45aa-b096-f32548ba820c)
+
+![Dashboard-3](https://github.com/user-attachments/assets/08f86216-0f90-477d-94d3-c55f710d0cce)
+
+![Dashboard-4](https://github.com/user-attachments/assets/00cf2c95-5e62-4355-86ea-32d2a6f72a74)
+
+![Dashboard-5](https://github.com/user-attachments/assets/c3e42b11-71fb-4a88-9bdc-777152f3c0e2)
+
+
 ## 📝 License
     This project is licensed under the MIT License. See the LICENSE file for more details.
     
