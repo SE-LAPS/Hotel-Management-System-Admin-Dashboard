@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@200&display=swap');
+*{
+    font-family: 'Montserrat',sans-serif;
+    font-style: normal;
+}
+.alert{
+    height: 30px !important;
+    padding: 3px 3px;
+    font-size: 15px;
+}
+.bg-sign-in{
+    background:linear-gradient(69.66deg, #7f00fe 19.39%, #daf0ff 96.69%);
+    height:100vh;
+}
+.form-sign-in,.sign-up{
+    border-radius: 10px;
+    width: 380px;
+}
+
+.bg-show{
+    display: block !important;
+    z-index: 0;
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.575);
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    cursor: pointer;
+    display: none;
+}
+.register{
+    background: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -1000px;
+    transform: translate(-190px,-260px);
+    transition: 1s ease-out;
+}
+.register-active{
+    margin-top:0;
+    transition: 1s ease-out;
+}
+button[type="submit"]{
+    background: linear-gradient(to left, #0acffe 0%, #4400fe 100%); 
+}
+.E-classe {
+    border-left:solid 6px  #0033fe;
+}
+.custom-btn-color {
+    background: linear-gradient(to right, #0acffe 0%, #4400fe 100%); 
+    border: none;
+}
+
+.bg-sign-in p,.bg-sign-in label{
+    font-size: 14px;
+    line-height:17,07px;
+    font-weight: 400;
+    color:#6C6C6C;
+}
+input[type="email"]::placeholder,input[type="password"]::placeholder{
+    font-size: 12px;
+    line-height: 15px;
+    color: #CDCDCD;
+}
+.sign-in{
+    font-size: 22px;
+    line-height: 27px;
+    font-weight: 600;
+}
+/* start dashboard */
+/* start sidebar */
+.bg-sidebar {
+    background: linear-gradient(69.66deg, #7f00fe 19.39%, #daf0ff 96.69%);
+    z-index: 10;
+}
+
+.bg-content {
+    background: #f8f8f8;
+}
+
+.h7 {
+    font-size: 18px; 
+    color: #ffffff; 
+}
+
+.nav-link.text-dark {
+    color: #ffffff !important; 
+}
+
+.logout .nav-link.text-dark {
+    color: #ffffff !important; 
+}
+
+/* New CSS for specific elements */
+.h6.fw-bold,
+.small.mb-0,
+.h8.admin-color {
+    color: rgb(0, 0, 0); 
+}
+
+.h7 .fa-home-lg-alt,
+.h7 .fa-file-chart-line,
+.h7 .fa-credit-card,
+.h7 .fa-store {
+    color: yellow !important;
+}
+
+#delete-img-btn {
+    background: linear-gradient(to right, #0acffe 0%, #4400fe 100%); 
+    border: none;
+}
+/* end sidebar */
+
+
+/* start cards */
+.admin-color{
+    color: #ffffff ;
+    font-size: 14px;
+    font-weight: bold;
+}
+.cards .card__items{
+    border-radius: 8px;
+    width: 220px;
+    height: 150px;
+}
+.card__items--blue{
+    background-color:#F0F9FF;
+}
+.card__items--blue i{
+    color: #74C1ED;
+}
+.card__items--rose{
+    background-color:#FEF6FB;
+}
+.card__items--rose i{
+    color:#EE95C5;
+}
+.card__items--yellow{
+    background-color:#FEFBEC;
+}
+.card__items--yellow i{
+    color:#00C1FE;
+}
+.card__items--gradient{
+    background: linear-gradient(110.42deg, #00C1FE 18.27%, #FAFFC1 91.84%);
+}
+.card__items--gradient i{
+    color:#FFFFFF;
+}
+.nbr{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+/* end cards */
+/* end dashboard */
+
+
+/* start hotels list  */
+.hotel_list{
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+.table th{
+    font-size: 12px;
+    color:#ACACAC;
+}
+table tbody{
+    font-size: 14px;
+}
+.table a{
+    color:#00C1FE;
+}
+.hotel-list-header{
+    border-bottom: 2px solid #E5E5E5;
+}
+.hotel-list-header i{
+    color:#00C1FE;
+}
+
+.btn-primary{
+    background-color: #00C1FE;
+  border-color: #00C1FE;
+}
+.btn-primary:hover {
+    background-color: #04a6d8;
+  border-color: #04a6d8;
+}
+.btn-primary:focus{
+    background-color: none;
+}
+/* end children list */
+
+.fa-search{
+    left:-30px;
+}
+.bg-sidebar a:hover{
+    background: linear-gradient(to right, #0acffe 0%, #4400fe 100%); 
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+}
+.valid{
+    color: red;
+}
+@media screen and (min-width:768px){
+    .bg-sidebar{
+        position: sticky !important;
+        top: 0;
+        width: 25% !important;
+    }
+    .hidden-sidebar{
+        margin-left: -25%;
+        
+    }
+}
+@media screen and (max-width:768px){
+    .hidden-sidebar-mobile{
+        margin-left: -50%;
+    }
+    
+}
