@@ -64,6 +64,7 @@ Follow these steps to get the project up and running locally.
     This project is licensed under the MIT License. See the LICENSE file for more details.
     
 ## 📧 Contact
-    For any inquiries or feedback, reach out to me at https://bit.ly/Lahiru_Senavirathna.
+For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://bit.ly/Lahiru_Senavirathna).
+
 
   
