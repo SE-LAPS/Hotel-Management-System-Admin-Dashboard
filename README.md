@@ -34,10 +34,10 @@ Follow these steps to get the project up and running locally.
 
 ## 👨‍💻 Technologies Used
 
-    PHP: Server-side scripting language.
-    MySQL: Database management.
-    HTML5 & CSS3: Frontend structure and styling.
-    JavaScript: Interactive elements and data manipulation.
+    1️⃣PHP: Server-side scripting language.
+    2️⃣MySQL: Database management.
+    3️⃣HTML5 & CSS3: Frontend structure and styling.
+    4️⃣JavaScript: Interactive elements and data manipulation.
 
 ## 🤝 Contributing
     Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements.
