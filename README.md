@@ -18,11 +18,11 @@ Follow these steps to get the project up and running locally.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hotel-management-dashboard.git
+   git clone https://github.com/SE-LAPS/Hotel-Management-System-Admin-Dashboard.git
 
 2. **Navigate to the project directory**:
     ```bash
-   cd hotel-management-dashboard
+   cd Hotel-Management-System-Admin-Dashboard
 
 3. **Set up the database**:
    - Import the provided hotel_management.sql file into your MySQL database.
